@@ -1,5 +1,5 @@
 # fake-video-corpus
-This is the first, to our knowledge, annotated dataset of debunked and verified user-generated videos (UGVs), along with multiple near-duplicate reposted versions of them.
+This is the first, to our knowledge, annotated dataset of debunked and verified user-generated videos (UGVs), along with multiple near-duplicate reposted versions of them. For details refer to [Fake Video Corpus](https://mklab.iti.gr/results/fake-video-corpus/).
 
 The dataset comprises videos from a variety of event categories, such as politics, sports, natural disasters, accidents, wars, etc. Currently, it consists of 200 unique debunked videos (for simplicity also referred to as fake) and 180 unique verified videos (also referred to as real). In particular, different types of fake video are included:
 
